@@ -1,0 +1,3 @@
+npm test
+npm run format:staged
+npx lint-staged
